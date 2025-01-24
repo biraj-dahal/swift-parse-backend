@@ -8,7 +8,7 @@
 import UIKit
 
 // TODO: Pt 1 - Import Parse Swift
-
+import ParseSwift
 
 class LoginViewController: UIViewController {
 
