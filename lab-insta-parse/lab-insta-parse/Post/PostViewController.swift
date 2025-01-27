@@ -8,8 +8,10 @@
 import UIKit
 
 // TODO: Import Photos UI
+import PhotosUI
 
 // TODO: Import Parse Swift
+import ParseSwift
 
 class PostViewController: UIViewController {
 
